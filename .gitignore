@@ -1,2 +1,5 @@
 # Ignore compiled program
 *.out
+
+#Ignore mac specific dirs
+*.dSYM
